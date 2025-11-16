@@ -8,9 +8,14 @@ them into something that helps people make better decisions.
   <img src="MeCosa -4.png" width="45%" />
   <img src="MeCosa -3.png" width="45%" />
 </p>
-<img src="MeCosa.png" alt="Alt Text" width="500" height="300">
+
+<p float="left">
+  <img src="MeCosa.png" width="45%" />
+  <img src="MeCosa-5.png" width="45%" />
+</p>
+
 <img src="MeCosa-1.png" alt="Alt Text" width="500" height="300">
-<img src="MeCosa-5.png" alt="Alt Text" width="500" height="300">
+
 
 
 # Analysis and Visualization Projects
