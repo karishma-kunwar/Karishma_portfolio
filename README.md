@@ -5,8 +5,8 @@ them into something that helps people make better decisions.
 
 ## Sharing my latest data stories for an organization I work.
 <p float="left">
-  <img src="MeCosa -4.png" width="50%" />
-  <img src="MeCosa -3.png" width="50%" />
+  <img src="MeCosa -4.png" width="45%" />
+  <img src="MeCosa -3.png" width="45%" />
 </p>
 <img src="MeCosa.png" alt="Alt Text" width="500" height="300">
 <img src="MeCosa-1.png" alt="Alt Text" width="500" height="300">
