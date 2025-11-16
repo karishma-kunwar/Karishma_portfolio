@@ -1,5 +1,5 @@
-Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
-insights to tackle real-world challenges.
+Data isn’t just numbers to me, it’s stories waiting to be told. I love digging into data, finding insights, and turning
+them into something that helps people make better decisions.
 
 # Let the visuals talk : I love story-telling
 
