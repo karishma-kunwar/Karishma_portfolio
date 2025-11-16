@@ -1,11 +1,10 @@
 Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
 insights to tackle real-world challenges.
 
-# Let the visuals talk
+# Let the visuals talk : I love story-telling
 
-## I love story-telling- sharing my latest data stories for an organization I work.
-<img src="MeCosa -4.png" alt="Alt Text" width="500" height="300">
-<img src="MeCosa -3.png" alt="Alt Text" width="500" height="300">
+## Sharing my latest data stories for an organization I work.
+<img src="MeCosa -4.png" alt="Alt Text" width="300" height="300"> <img src="MeCosa -3.png" alt="Alt Text" width="300" height="300">
 <img src="MeCosa.png" alt="Alt Text" width="500" height="300">
 <img src="MeCosa-1.png" alt="Alt Text" width="500" height="300">
 <img src="MeCosa-5.png" alt="Alt Text" width="500" height="300">
