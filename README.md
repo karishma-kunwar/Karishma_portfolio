@@ -40,15 +40,15 @@ them into something that helps people make better decisions.
 
 #### Summary
 
-<img src="Finance_summary.png" alt="Alt Text" width="500" height="300">
+<img src="Finance_summary.png" alt="Alt Text" width="45%">
 
 #### Details
 
-<img src="Finance_details.png" alt="Alt Text" width="500" height="300">
+<img src="Finance_details.png" alt="Alt Text" width="45%">
 
 #### Overview
 
-<img src="Finance_overview.png" alt="Alt Text" width="500" height="300">
+<img src="Finance_overview.png" alt="Alt Text" width="45%">
 
   
 ## 2. Sales Dashboard
@@ -71,11 +71,11 @@ them into something that helps people make better decisions.
 ### Results Screenshots
 #### Sales Overview
 
-<img src="Car_Sales_Overview.png" alt="Alt Text" width="500" height="300">
+<img src="Car_Sales_Overview.png" alt="Alt Text" width="45%">
 
 #### Sales Details
 
-<img src="sales_details.png" alt="Alt Text" width="500" height="300">
+<img src="sales_details.png" alt="Alt Text" width="45%" >
 
 
 ## 3. Election portal visualization project 
@@ -89,7 +89,7 @@ them into something that helps people make better decisions.
 ### Result Screenshot
 #### Vote Representation
  
-<img src="barchart_1.png" alt="Alt Text" width="600" height="300">
+<img src="barchart_1.png" alt="Alt Text" width="45%">
 
 #### Genderwise Representation
 
